@@ -16,7 +16,7 @@
   padding: 20px;
   background-color: green;
   margin-bottom: 10px;
-  /* overflow: hidden; */
+  overflow: hidden;
 }
 
 .artikel{
@@ -129,8 +129,4 @@ margin: auto;
   width: 250px;
   color: white;
   margin-left: 300px;
-}
-
-#artikel-header2 .artikel-header{
-  background-color: yellow;
 }
