@@ -62,5 +62,23 @@ button{
 
 button:hover{
   background-color: rgba(0, 136, 169, 0.8);
-
 }
+
+h1{
+  text-align: center;
+  color: aliceblue;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron{
+ background-color: yellow;
+ height: 300px;
+ width: 100%;
+}
+
+.background{
+  text-align: center;
+  overflow: hidden;
+  }
+
