@@ -1,7 +1,7 @@
-.wrapper  {
+/* .wrapper  {
   width: 960px;
   margin: 0 auto;
-  /* background-color: grey; */
+  background-color: grey;
 }
 
 .header{
@@ -10,31 +10,48 @@
   background-color: orange;
   margin-bottom: 10px;
 
-}
+} */
 
 .content{
   padding: 20px;
   background-color: green;
   margin-bottom: 10px;
-  /* overflow: hidden; */
+  opacity: 0.9;
+  overflow: hidden;
 }
 
-.artikel{
+/* .artikel{
   height: 700px;
   width: 600px;
   background-color: orange;
-  /* float: left; */
-}
+  float: left;
+} */
+
 
 .sidebar{
   width: 300px;
-  height: 200px;
-  background-color: orange;
-  float: right;
+  
+  float: right; 
+ background-color: #24252a;
+  color:aliceblue;
 }
 
+.atas {
+  width: 10%
+  height:20px;
+  background-color: yellow;
+  color: black;
+  font-size:14px;
+}
+  
+
+
+
+
+/* 
 .footer {
   width: 100%;
   height: 50px;
   background-color: green;
 }
+ */
